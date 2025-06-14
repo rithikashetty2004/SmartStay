@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "clientName": "Rahul Sharma",
+    "checkInDate": "2025-02-01",
+    "checkOutDate": "2025-02-05",
+    "roomType": "Deluxe",
+    "aadhaarNumber": "1234 5678 9012"
+  },
+  {
+    "id": 2,
+    "clientName": "Ananya Verma",
+    "checkInDate": "2025-02-03",
+    "checkOutDate": "2025-02-07",
+    "roomType": "Suite",
+    "aadhaarNumber": "2345 6789 0123"
+  },
+  {
+    "id": 3,
+    "clientName": "Vikram Patel",
+    "checkInDate": "2025-02-02",
+    "checkOutDate": "2025-02-04",
+    "roomType": "Standard",
+    "aadhaarNumber": "3456 7890 1234"
+  },
+  {
+    "id": 4,
+    "clientName": "Priya Mehta",
+    "checkInDate": "2025-02-05",
+    "checkOutDate": "2025-02-10",
+    "roomType": "Luxury",
+    "aadhaarNumber": "4567 8901 2345"
+  },
+  {
+    "id": 5,
+    "clientName": "Amit Gupta",
+    "checkInDate": "2025-02-06",
+    "checkOutDate": "2025-02-08",
+    "roomType": "Deluxe",
+    "aadhaarNumber": "5678 9012 3456"
+  },
+  {
+    "id": 6,
+    "clientName": "Shrirang Sanjeev Zend",
+    "checkInDate": "2025-02-08",
+    "checkOutDate": "2025-02-10",
+    "roomType": "Luxury",
+    "aadhaarNumber": "7660 6174 8531"
+  }
+]

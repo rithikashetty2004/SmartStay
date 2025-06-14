@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "itemName": "Bedsheets",
+    "category": "Linen",
+    "quantity": 50,
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "itemName": "Pillows",
+    "category": "Bedding",
+    "quantity": 30,
+    "status": "Low Stock"
+  },
+  {
+    "id": 3,
+    "itemName": "Towels",
+    "category": "Bathroom Supplies",
+    "quantity": 40,
+    "status": "Available"
+  },
+  {
+    "id": 4,
+    "itemName": "Shampoo Bottles",
+    "category": "Toiletries",
+    "quantity": 100,
+    "status": "Available"
+  },
+  {
+    "id": 5,
+    "itemName": "Toilet Paper Rolls",
+    "category": "Toiletries",
+    "quantity": 20,
+    "status": "Low Stock"
+  },
+  {
+    "id": 6,
+    "itemName": "Water Bottles",
+    "category": "Beverages",
+    "quantity": 75,
+    "status": "Available"
+  },
+  {
+    "id": 7,
+    "itemName": "Flashlights",
+    "category": "Emergency Supplies",
+    "quantity": 5,
+    "status": "Critical"
+  },
+  {
+    "id": 8,
+    "itemName": "Mini Bar Snacks",
+    "category": "Food",
+    "quantity": 25,
+    "status": "Available"
+  }
+]

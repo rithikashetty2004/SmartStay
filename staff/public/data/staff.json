@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Rohan Sharma",
+      "email": "rohan@hotelmanagex.com",
+      "password": "rohan123"
+    },
+    {
+      "id": 2,
+      "name": "Anjali Mehta",
+      "email": "anjali@hotelmanagex.com",
+      "password": "anjali123"
+    },
+    {
+      "id": 3,
+      "name": "Vikram Patel",
+      "email": "vikram@hotelmanagex.com",
+      "password": "vikram123"
+    },
+    {
+      "id": 4,
+      "name": "Neha Gupta",
+      "email": "neha@hotelmanagex.com",
+      "password": "neha123"
+    }
+]

@@ -1,0 +1,44 @@
+# pip install -r requirements.txt
+
+
+# Image processing and computer vision
+opencv-python
+numpy
+face-recognition
+
+# Fast search for similarity search (Faiss)
+faiss-cpu
+
+# Web framework
+fastapi
+uvicorn
+
+# File handling and background tasks
+pydantic
+python-multipart
+
+# Optical Character Recognition (OCR)
+pytesseract
+
+# Regular expressions
+regex
+
+# File system path utilities
+pathlib
+
+# MySQL database connector
+mysql-connector-python
+
+# Machine learning model serialization
+joblib
+
+# Data analysis and processing
+pandas
+
+# Deep learning framework
+tensorflow
+
+# CSV Handling (built-in, no pip installation needed)
+# threading (built-in, no pip installation needed)
+# datetime (built-in, no pip installation needed)
+# os (built-in, no pip installation needed)

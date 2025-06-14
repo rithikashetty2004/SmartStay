@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "staffEmail": "rohan@hotelmanagex.com",
+    "date": "2025-02-01",
+    "tasks": [
+      "Check room cleanliness for 10 rooms",
+      "Handle VIP guest requests",
+      "Assist front desk in peak hours",
+      "Coordinate with housekeeping for room turnovers",
+      "Inspect room amenities for functionality",
+      "Report any maintenance issues to the engineering team",
+      "Ensure guest requests are fulfilled promptly",
+      "Assist in training new housekeeping staff",
+      "Prepare daily housekeeping reports",
+      "Monitor guest feedback and address concerns"
+    ]
+  },
+  {
+    "id": 2,
+    "staffEmail": "anjali@hotelmanagex.com",
+    "date": "2025-02-01",
+    "tasks": [
+      "Supervise housekeeping",
+      "Inspect minibar inventory",
+      "Coordinate laundry services",
+      "Schedule housekeeping shifts",
+      "Conduct daily briefings with housekeeping staff",
+      "Ensure compliance with health and safety regulations",
+      "Order and manage housekeeping supplies",
+      "Inspect guest rooms for cleanliness and order",
+      "Handle lost and found items",
+      "Prepare housekeeping performance reports"
+    ]
+  },
+  {
+    "id": 3,
+    "staffEmail": "vikram@hotelmanagex.com",
+    "date": "2025-02-01",
+    "tasks": [
+      "Manage security protocols",
+      "Monitor night shift reports",
+      "Resolve maintenance issues",
+      "Conduct security briefings with staff",
+      "Review and update emergency procedures",
+      "Coordinate with local law enforcement as needed",
+      "Monitor security camera footage",
+      "Ensure all security equipment is functional",
+      "Respond to security incidents promptly",
+      "Prepare security incident reports"
+    ]
+  },
+  {
+    "id": 4,
+    "staffEmail": "neha@hotelmanagex.com",
+    "date": "2025-02-01",
+    "tasks": [
+      "Oversee restaurant orders",
+      "Handle customer complaints",
+      "Monitor food stock levels",
+      "Coordinate with kitchen staff for menu planning",
+      "Ensure compliance with food safety regulations",
+      "Train new restaurant staff",
+      "Prepare daily sales reports",
+      "Manage restaurant reservations",
+      "Conduct quality checks on food and service",
+      "Organize special events and promotions"
+    ]
+  }
+]
